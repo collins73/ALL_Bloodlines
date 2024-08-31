@@ -25,7 +25,7 @@ data = {
         "V6 Ride or Die", "V6 Ride or Die", "V6 Ride or Die", "V6 Ride or Die", "3 The Hard Way",
         "3 The Hard Way", "3 The Hard Way", "Da Bomb Squad", "Da Bomb Squad", "Da Bomb Squad",
         "Two Queribbean Souls", "Two Queribbean Souls", "The Aftermath 3", "The Aftermath 3",
-        "The Aftermath 3", "Two Sons of Tenacity", "Two Sons of Tenacity"
+        "The Aftermath 3", "Two Sons of Tenacity", "Two Sons of Tenacity",
         # Insert new Line names here
     ],
     "Sons of ALL": [
