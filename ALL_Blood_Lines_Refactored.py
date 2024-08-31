@@ -1,7 +1,7 @@
 """
 This portion of the code will be used for all updates from the main python master file.
 I can also display a simple bar chart visualization for all successive pledge lines from
-the past to the present.
+the past to the present...
 
 """
 
