@@ -1,5 +1,5 @@
 """
-This portion of the code will be used for all updates from the main python master file.
+This is the refactored version from the main python ALL_Bloodlines.py file.
 I can also display a simple bar chart visualization for all successive pledge lines from
 the past to the present...
 
