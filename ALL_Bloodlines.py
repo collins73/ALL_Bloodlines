@@ -47,6 +47,8 @@ data = {
 }
 
 # Creating the DataFrame
+
+
 df = pd.DataFrame(data)
 
 
